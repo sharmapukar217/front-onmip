@@ -1,0 +1,53 @@
+{
+  "termsAndServices": "Termes et services",
+  "privacyPolicy": "Politique de confidentialité",
+
+  "orContinueWith": "OU Continuer avec",
+
+  "form": {
+    "label": {
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "emailAddress": "Adresse e-mail",
+      "phoneNumber": "Numéro de téléphone",
+      "password": "Mot de passe"
+    }
+  },
+
+  "zodI18n": {
+    "errors": {
+      "invalid_type_received_undefined": "Ce champ est requis!",
+      "invalid_string": {
+        "email": "Veuillez saisir une adresse e-mail valide."
+      },
+      "too_small": {
+        "string": {
+          "inclusive": "Doit contenir au moins {minimum} caractère(s)"
+        }
+      }
+    },
+    "validations": {
+      "email": "email"
+    }
+  },
+
+  "homepage": {
+    "pageTitle": "Bienvenue"
+  },
+  "auth": {
+    "login": {
+      "pageTitle": "Connectez-vous à votre compte",
+      "formTitle": "Bienvenue pour vous connecter",
+      "formSubtitle": "Entrez vos identifiants pour vous connecter à votre compte",
+      "submitBtnTitle": "Connexion",
+      "registerLinkTitle": "Créer un nouveau compte"
+    },
+    "register": {
+      "pageTitle": "Inscrivez-vous pour un nouveau compte",
+      "formTitle": "Bienvenue pour vous inscrire",
+      "formSubtitle": "Remplissez le formulaire pour obtenir votre nouveau compte...",
+      "submitBtnTitle": "S'inscrire",
+      "loginLinkTitle": "Aller à la connexion"
+    }
+  }
+}

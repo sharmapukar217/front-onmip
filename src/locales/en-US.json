@@ -1,0 +1,58 @@
+{
+  "termsAndServices": "Terms & Services",
+  "privacyPolicy": "Privacy policy",
+
+  "orContinueWith": "OR Continue With",
+
+  "form": {
+    "label": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "emailAddress": "Email Address",
+      "phoneNumber": "Phone Number",
+      "password": "Password",
+      "companyType": "Company Type"
+    }
+  },
+
+  "zodI18n": {
+    "errors": {
+      "invalid_type_received_undefined": "This field is required!",
+      "invalid_email_address_used": "This email address is already in use.",
+      "invalid_string": {
+        "email": "Please enter a valid email address."
+      },
+      "too_small": {
+        "string": {
+          "inclusive": "Must contain at least {minimum} character(s)"
+        }
+      }
+    },
+    "validations": {
+      "email": "email"
+    }
+  },
+
+  "homepage": {
+    "pageTitle": "Welcome"
+  },
+  "auth": {
+    "login": {
+      "pageTitle": "Login to your account",
+      "formTitle": "Welcome to login",
+      "formSubtitle": "Enter your credentials to login to your account",
+      "submitBtnTitle": "Login",
+      "registerLinkTitle": "Create new account",
+      "errorMessage": "Something went wrong while trying to log you in.",
+      "successMessage": "You're now logged in as {name}"
+    },
+    "register": {
+      "pageTitle": "Register for a new account",
+      "formTitle": "Welcome to register",
+      "formSubtitle": "Fill up the form to get your new account...",
+      "submitBtnTitle": "Register",
+      "loginLinkTitle": "Go to login",
+      "errorMessage": "Something went wrong while trying to create a new account."
+    }
+  }
+}
